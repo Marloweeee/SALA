@@ -1,5 +1,5 @@
 
-<p align="center"> <img src='Figs/figure1.png' align="center" height="540px"> </p>
+<p align="center"> <img src='Figs/latest_fig1.png' align="center" height="540px"> </p>
 
 
 
